@@ -3,8 +3,8 @@
 
 All aliases.
 
-|  alias  |            command           |
-|:-------:|:----------------------------:|
+| alias   | command                      |
+|---------|------------------------------|
 | artisan | php artisan                  |
 | a       | php artisan                  |
 | atnkr   | php artisan tinker           |
