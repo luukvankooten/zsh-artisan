@@ -27,3 +27,6 @@ All aliases.
 | acac    | php artisan cache:clear      |
 | acaf    | php artisan cache:forget     |
 | acat    | php artisan cache:table      |
+
+
+[heavily inspired from the git plugin for zsh.](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/git/git.plugin.zsh)
